@@ -9,7 +9,7 @@ Repositorios pertenecientes al IES Torrevigía - Torrevieja
 
 ---
 
-> Actividad inicial de Git para GitHub Classroom.  
-> Objetivo: dejar tu **usuario de Git** correctamente configurado y listo para usar en futuras actividades.
+ Actividad inicial de Git para GitHub Classroom.  
+ Objetivo: dejar tu **usuario de Git** correctamente configurado y listo para usar en futuras actividades.
 
 ---
