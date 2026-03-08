@@ -1,8 +1,4 @@
-Aquí tienes la **Actividad 6.17** sobre Git LFS, centrada en aprender a versionar archivos grandes (imágenes, vídeos, datasets) sin romper el repositorio. [docs.github](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage)
 
-***
-
-```markdown
 # 🧱 Actividad 6.17 – Git LFS: trabajar con archivos grandes
 
 > Git no está optimizado para archivos binarios grandes (imágenes, vídeos, datasets, binarios…).
