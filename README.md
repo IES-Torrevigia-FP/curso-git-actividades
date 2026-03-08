@@ -18,7 +18,7 @@ Repositorios pertenecientes al IES Torrevigía - Torrevieja
 #### Actividad 6.1 - Flujo básico de trabajo con Git
 
  Actividad inicial de Git para GitHub Classroom.  
- Objetivo: En esta actividad vas a **entender y practicar el flujo básico de Git**; trabajar, preparar cambios y registrarlos en el historial.
+ Objetivo: En esta actividad vas a **entender y practicar el flujo básico de Git**. Practicaremos como trabajar, preparar cambios y registrarlos en el historial.
 
 ---
 ---

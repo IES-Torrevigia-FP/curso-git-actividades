@@ -1,4 +1,4 @@
-Te propongo una **Actividad 6.1** centrada en los conceptos esenciales del flujo de trabajo de Git (directorio de trabajo, zona de staging, commits, historial), suponiendo que el alumnado ya ha hecho la Actividad 0 de configuración. [git-scm](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+Te propongo una **Actividad 6.1** centrada en los conceptos esenciales del flujo de trabajo de Git (directorio de trabajo, zona de staging, commits, historial), suponiendo que el alumnado ya ha hecho la Actividad 6.0 de configuración. [git-scm](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 La tienes en formato **Markdown**, lista para usar como `README.md` de una nueva assignment en GitHub Classroom.
 
@@ -8,7 +8,7 @@ La tienes en formato **Markdown**, lista para usar como `README.md` de una nueva
 # 🧭 Actividad 6.1 – Primer flujo de trabajo con Git
 
 > En la Actividad 6.0 dejaste Git listo para usarse (usuario, rama `main`, alias, etc.).  
-> En esta actividad vas a **entender y practicar el flujo básico de Git**: trabajar, preparar cambios y registrarlos en el historial.
+> En esta actividad vas a **entender y practicar el flujo básico de Git**. Practicaremos como trabajar, preparar cambios y registrarlos en el historial.
 
 ---
 
