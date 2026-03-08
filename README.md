@@ -36,3 +36,11 @@ Repositorios pertenecientes al IES Torrevigía - Torrevieja
  Objetivo: aprender a unir **ramas** y resolver conflictos.
 
 ---
+
+---
+#### Actividad 6.4 - Rebase automático con Git
+
+ Actividad inicial de Git para GitHub Classroom.  
+ Objetivo: aprender a **usar `git rebase` para “mover” una rama sobre otra y obtener un historial más lineal y limpio**.
+
+---
