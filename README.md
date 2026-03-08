@@ -28,3 +28,11 @@ Repositorios pertenecientes al IES Torrevigía - Torrevieja
  Objetivo: aprender a trabajar con **ramas**, que son líneas de tiempo alternativas de tu proyecto.
 
 ---
+
+---
+#### Actividad 6.3 - Ramas y flujo avanzado con Git
+
+ Actividad inicial de Git para GitHub Classroom.  
+ Objetivo: aprender a unir **ramas** y resolver conflictos.
+
+---
