@@ -7,7 +7,7 @@ La tienes en formato **Markdown**, lista para usar como `README.md` de una nueva
 ```markdown
 # 🧭 Actividad 6.1 – Primer flujo de trabajo con Git
 
-> En la Actividad 0 dejaste Git listo para usarse (usuario, rama `main`, alias, etc.).  
+> En la Actividad 6.0 dejaste Git listo para usarse (usuario, rama `main`, alias, etc.).  
 > En esta actividad vas a **entender y practicar el flujo básico de Git**: trabajar, preparar cambios y registrarlos en el historial.
 
 ---
