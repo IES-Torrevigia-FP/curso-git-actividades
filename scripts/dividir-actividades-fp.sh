@@ -22,7 +22,7 @@ echo "ACTIVIDADES CREADAS - $(date)" > actividades-creadas.txt
 echo "==================================" >> actividades-creadas.txt
 
 # Procesar actividades del 1 al 33
-for i in $(seq -w 1 33); do
+for i in $(seq -f "%03g" 1 33); do
     ARCHIVO="actividad_6_${i}.md"
     ACTIVIDAD_NOMBRE="actividad_6_${i}"
     REPO_NOMBRE="${ACTIVIDAD_NOMBRE}-template"
@@ -124,7 +124,7 @@ echo "🔄 Ahora, configurando repositorios como templates..."
 
 # Configurar como template (si tenemos gh)
 if command -v gh &> /dev/null; then
-    for i in $(seq -w 1 33); do
+    for i in $(seq -f "%03g" 1 33); do
         REPO_NOMBRE="actividad_6_${i}-template"
         echo "Configurando $REPO_NOMBRE como template..."
         
